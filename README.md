@@ -27,7 +27,7 @@ The telegram bot for exchange rate and weather forecast. Using telebot, bs4 and 
   <li><a href="https://github.com/RandyR0zz/Python_course/tree/main/Projects/Telegram_Daily_Bot">Telegram Daily Bot</a></li>
 </ul>
 
-The simple telegram ai-bot. Using telegram.ext, fuzzywuzzy and others libraries.
+The simple telegram for a small talks. Using telegram.ext, fuzzywuzzy and others libraries.
 
 <ul type="square">
   <li><a href="https://github.com/RandyR0zz/Python_course/tree/main/Projects/AI_Bot">AI Bot</a></li>
