@@ -44,3 +44,9 @@ The game from Eric Matthes` "Python Crash Course" book. The game can keep high s
 <ul type="square">
   <li><a href="https://github.com/RandyR0zz/Python_course/tree/main/Projects/Alien_Invasion">Alien Invasion</a></li>
 </ul>
+
+Functions for collecting statistics for the telegram bot. Using pandas, json [Currently under development].
+
+<ul type="square">
+  <li><a href="https://github.com/RandyR0zz/Python_course/tree/main/Projects/TFP_Maf_Bot">TFP_Maf_Bot</a></li>
+</ul>
