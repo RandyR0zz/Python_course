@@ -88,8 +88,8 @@ def get_action_black_stat_to_json():
     # запись в json формат
     write_sheet('action_black_stat', result)
 
-get_rating_stat_to_json()
-get_general_stat_to_json()
-get_role_stat_to_json()
-get_action_red_stat_to_json()
-get_action_black_stat_to_json()
+# get_rating_stat_to_json()
+# get_general_stat_to_json()
+# get_role_stat_to_json()
+# get_action_red_stat_to_json()
+# get_action_black_stat_to_json()
