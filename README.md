@@ -1,6 +1,4 @@
-### Contents:
-
-<a href="https://github.com/RandyR0zz/Python_course/tree/main/IT_Academy_Tasks">IT-Academy:</a>
+### <a href="https://github.com/RandyR0zz/Python_course/tree/main/IT_Academy_Tasks">IT-Academy:</a>
 
 <ul type="square">
   <li><a href="https://github.com/RandyR0zz/Python_course/tree/main/IT_Academy_Tasks">Tasks</a></li>
@@ -8,7 +6,7 @@
 
 ---
 
-<a href="https://github.com/RandyR0zz/Python_course/tree/main/Practice">Self-study and practice:</a>
+### <a href="https://github.com/RandyR0zz/Python_course/tree/main/Practice">Self-study and practice:</a>
 
 <ul type="square">
   <li><a href="https://github.com/RandyR0zz/Python_course/tree/main/Practice/Algorithms">Algorithms</a></li>
@@ -19,7 +17,7 @@
 
 ---
 
-<a href="https://github.com/RandyR0zz/Python_course/tree/main/Practice">Projects:</a>
+### <a href="https://github.com/RandyR0zz/Python_course/tree/main/Practice">Projects:</a>
 
 The telegram bot for exchange rate and weather forecast. Using telebot, bs4 and others libraries.
 
